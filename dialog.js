@@ -4344,6 +4344,7 @@ exports.dialog_2748_32_0 = function(socket, id, hash) {// Клик по ВЫФВ
 exports.dialog_2870_32_0 = function(socket, id, hash) {// Клик по ВЫФВФЫВФЫВЫФ
 	if (Dialog.getQuest({socket: socket, id: id, hash: hash, globalId: 1006, isAccept: false, startQuestDialogId: 0}) != -1) { //QTODO
 		return;
+		jopa231
 	}
 }
 exports.dialog_0_32_0 = function(socket, id, hash) {// Клик по ВЫФВФЫВФЫВЫФ
